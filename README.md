@@ -110,12 +110,4 @@ Result: ⚠️ Phishing Website
 * Implement **deep learning** for better accuracy
 * Add **multi-language support**
 
----
 
-## **📜 License**
-
-This project is open-source and available under the **MIT License**.
-
----
-
-Do you want me to **write the complete README.md file for direct copy-paste** (with markdown formatting, emojis, and ready for GitHub), or keep it **simple text**?
